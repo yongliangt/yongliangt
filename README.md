@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yongliangt
-- 👀 I’m interested in programming, networking, designing, and editing.
-- 🌱 I’m currently learning Bachelor of Computer Science (Computer Systems & Networking) with Honours in Universiti Malaysia Pahang (UMP).
-- 💞️ I’m looking to collaborate on freelancer, company who need to coding and designing.
+- 👀 I’m interested in software development, web development, networking, designing, and editing.
+- 🌱 I’m fresh gradute Bachelor of Computer Science (Computer Systems & Networking) with Honours in Universiti Malaysia Pahang (UMP).
+- 💞️ I’m looking to full-time job and collaborate on freelancer, company who need to coding and designing.
 - 📫 Can reach me through the methods below:
 1. E-mail：yongliang99@gmail.com
 2. LinkedIn: https://www.linkedin.com/in/tua-yong-liang
