@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @yongliangt
 - 👀 I’m interested in software development, web development, networking, designing, and editing.
-- 🌱 I’m fresh gradute Bachelor of Computer Science (Computer Systems & Networking) with Honours in Universiti Malaysia Pahang (UMP).
+- 📚 I'm currently taking Master of Computer Science (Applied Computing) at University of Malaya.
+- 🎓 I’m graduted Bachelor of Computer Science (Computer Systems & Networking) with Honours in Universiti Malaysia Pahang (UMP).
 - 💞️ I’m looking to full-time job and collaborate on freelancer, company who need to coding and designing.
 - 📫 Can reach me through the methods below:
 1. E-mail：yongliang99@gmail.com
